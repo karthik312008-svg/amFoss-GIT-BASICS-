@@ -9,7 +9,7 @@ Your task is to contribute to this repository by adding a markdown file about yo
 
 1. Fork this repository.
 2. Clone your fork to your computer.
-3. Nee kollalo
+3. Create a new Branch
 4. add your name under participants inside README.md file .
 5. save the file 
 
